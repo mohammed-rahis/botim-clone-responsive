@@ -339,6 +339,7 @@ input[type='radio'] {
 }
 .nav-link:hover{
     color: #0D6EFD !important;
+    text-decoration: underline !important;
 }
 .button:hover{
     background-color: #c2daff;
